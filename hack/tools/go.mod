@@ -1,6 +1,6 @@
 module k8s.io/test-infra/hack/tools
 
-go 1.18
+go 1.24
 
 require (
 	github.com/bazelbuild/buildtools v0.0.0-20211007154642-8dd79e56e98e
@@ -144,7 +144,7 @@ require (
 	github.com/julz/importas v0.1.0 // indirect
 	github.com/kisielk/errcheck v1.6.2 // indirect
 	github.com/kisielk/gotool v1.0.0 // indirect
-	github.com/klauspost/compress v1.15.1 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kulti/thelper v0.6.3 // indirect
 	github.com/kunwardeep/paralleltest v1.0.6 // indirect
 	github.com/kyoh86/exportloopref v0.1.8 // indirect
